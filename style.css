@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(137, 224, 236);
+    padding: 20px;
+    border-radius: 10px;
+}
+i {
+    color: vi;
+}
+footer p {
+    background-color: green;
+}
+nav {
+    background-color: green;
+    
+}
+i {
+    color: violet;
+}
+nav a{
+    color: white;
+}
